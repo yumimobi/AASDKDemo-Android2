@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.yumimobi:antiaddiction:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6203a540533050f88f985fda4d3d79b2/antiaddiction-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6203a540533050f88f985fda4d3d79b2/antiaddiction-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6203a540533050f88f985fda4d3d79b2/antiaddiction-2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.yumimobi/antiaddiction/2.0.0/27d016d02b303f21a38bde3f3ab3f16f553f88b3/antiaddiction-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
